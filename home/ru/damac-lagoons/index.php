@@ -637,7 +637,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="widget item-absolute  " id="element-2262">
   <a
-    href="/damaclandingpage/home/en/damac-lagoons/indexb428.php" 
+    href="/home/en/damac-lagoons/indexb428.php" 
     id="link-373a5o3wmh6"
     
     class="url-link btn    item-block"
@@ -652,7 +652,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="widget item-absolute  " id="element-2267">
   <a
-    href="/damaclandingpage/home/ar/damac-lagoons/index.php" 
+    href="/home/ar/damac-lagoons/index.php" 
     id="link-837keud7nd5"
     
     class="url-link btn    item-block"

@@ -88,7 +88,7 @@ window.__page_id = 23765326;
   {"mobileDisabled":false,"snowplowWrapperUrl":"//g.fastcdn.co/js/sptw.f58afe926be16f9087f6.js","downloadFileEndpoint":"https://app.instapage.com/ajax/pageserver/files/serve-file","reCaptchaEnabled":false,"snowplowUrl":"https://cdn.instapagemetrics.com/t/js/3/it.js"}
 </script>
 
-  <script id="ip-analytics" type="application/json">{"trackingData":{"ownerId":2876121,"customerId":3211176,"pageId":23765326,"publishedVersion":25,"variationName":"A","variationId":1,"linkedVariationId":2,"variation":"A","trackedLinks":[],"allLinks":[{"href":"https://promotions.damacproperties.com/ru/damac-lagoons/","ariaLabel":"","id":"jdnmplctmyk","type":"url","track":false,"targetNewWindow":false},{"href":"/damaclandingpage/home/ar/damac-lagoons/index.php","ariaLabel":"","id":"5j6ndhtih6w","type":"url","track":false,"targetNewWindow":false},{"id":"98g9f97e535","type":"popup","track":false,"targetNewWindow":false},{"href":"https://www.damacproperties.com/en/privacy-policy/","ariaLabel":"","id":"fjkvfyccnb","type":"url","track":false,"targetNewWindow":true},{"href":"https://www.damacproperties.com/en/terms-and-conditions/","ariaLabel":"","id":"hlhyd9xo92b","type":"url","track":false,"targetNewWindow":true}],"user_id":2876121},"conversionSettings":{"forms":true,"links":true,"external":false}}</script>
+  <script id="ip-analytics" type="application/json">{"trackingData":{"ownerId":2876121,"customerId":3211176,"pageId":23765326,"publishedVersion":25,"variationName":"A","variationId":1,"linkedVariationId":2,"variation":"A","trackedLinks":[],"allLinks":[{"href":"https://promotions.damacproperties.com/ru/damac-lagoons/","ariaLabel":"","id":"jdnmplctmyk","type":"url","track":false,"targetNewWindow":false},{"href":"/home/ar/damac-lagoons/index.php","ariaLabel":"","id":"5j6ndhtih6w","type":"url","track":false,"targetNewWindow":false},{"id":"98g9f97e535","type":"popup","track":false,"targetNewWindow":false},{"href":"https://www.damacproperties.com/en/privacy-policy/","ariaLabel":"","id":"fjkvfyccnb","type":"url","track":false,"targetNewWindow":true},{"href":"https://www.damacproperties.com/en/terms-and-conditions/","ariaLabel":"","id":"hlhyd9xo92b","type":"url","track":false,"targetNewWindow":true}],"user_id":2876121},"conversionSettings":{"forms":true,"links":true,"external":false}}</script>
 
   <script id="ip-trkr" type="text/javascript" async=1>
     ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
@@ -793,7 +793,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="widget item-absolute  " id="element-2071">
   <a
-    href="/damaclandingpage/home/ru/damac-lagoons/index.php" 
+    href="/home/ru/damac-lagoons/index.php" 
     id="link-jdnmplctmyk"
     
     class="url-link btn    item-block"
@@ -808,7 +808,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="widget item-absolute  " id="element-2197">
   <a
-    href="/damaclandingpage/home/ar/damac-lagoons/index.php" 
+    href="/home/ar/damac-lagoons/index.php" 
     id="link-5j6ndhtih6w"
     
     class="url-link btn    item-block"

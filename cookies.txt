@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.promotions.damacproperties.com	TRUE	/	FALSE	1999999999	__cf_bm	mtMmrWRKAbGckW2LlmUPWA3cE9_lgScHLk1M2gCz4JE-1685362886-0-AY8PZ8uZEUIi4mMj+9itO4nZ+q4Na1mtuqXHjTAAwXfoJWWaZCmrwoKY2hz2oUphAHKvtF2QBZJtnc6tGmqRZH8=
+promotions.damacproperties.com	TRUE	/	FALSE	1999999999	SameSite	None
+
